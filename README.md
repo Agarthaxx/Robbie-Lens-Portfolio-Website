@@ -11,14 +11,6 @@ The project showcase a photographer's work through a clean design, structured la
 	•	Navigation between multiple pages  
 	•	Accessible and user-friendly interface  
 
-## 🚀 Features  
-	•	Responsive design (desktop, tablet, mobile)  
-	•	Clean and semantic HTML structure  
-	•	Modern CSS styling (Flexbox, layout techniques)  
-	•	Image gallery showcasing photography work  
-	•	Navigation between multiple pages  
-	•	Accessible and user-friendly interface  
-
 ## 🛠️ Technologies Used  
 	•	HTML5  
 	•	CSS3 (Flexbox)  
